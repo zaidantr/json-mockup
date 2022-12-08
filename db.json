@@ -1,69 +1,64 @@
 {
  "todos":  [
-    "userId1", [
         {
-            "userId": 1,
-            "id": 1,
-            "title": "makan",
-            "completed": false
-            },
-            {
-            "userId": 1,
-            "id": 2,
-            "title": "tidur",
-            "completed": false
-            },
-            {
-            "userId": 1,
-            "id": 3,
-            "title": "belajar",
-            "completed": false
-            },
-            {
-            "userId": 1,
-            "id": 4,
-            "title": "liburan",
-            "completed": true
-            },
-            {
-            "userId": 1,
-            "id": 5,
-            "title": "nanam",
-            "completed": false
-            }
-    ],
-
-    "userId2", [
+        "userId": 1,
+        "id": 1,
+        "title": "makan",
+        "completed": false
+        },
         {
-            "userId": 2,
-            "id": 21,
-            "title": "belanja",
-            "completed": false
-            },
-            {
-            "userId": 2,
-            "id": 22,
-            "title": "toefl",
-            "completed": true
-            },
-            {
-            "userId": 2,
-            "id": 23,
-            "title": "minum",
-            "completed": false
-            },
-            {
-            "userId": 2,
-            "id": 24,
-            "title": "skincare",
-            "completed": false
-            },
-            {
-            "userId": 2,
-            "id": 25,
-            "title": "game",
-            "completed": true
-            }
-    ]
+        "userId": 1,
+        "id": 2,
+        "title": "tidur",
+        "completed": false
+        },
+        {
+        "userId": 1,
+        "id": 3,
+        "title": "belajar",
+        "completed": false
+        },
+        {
+        "userId": 1,
+        "id": 4,
+        "title": "liburan",
+        "completed": true
+        },
+        {
+        "userId": 1,
+        "id": 5,
+        "title": "nanam",
+        "completed": false
+        },
+        {
+        "userId": 2,
+        "id": 21,
+        "title": "belanja",
+        "completed": false
+        },
+        {
+        "userId": 2,
+        "id": 22,
+        "title": "toefl",
+        "completed": true
+        },
+        {
+        "userId": 2,
+        "id": 23,
+        "title": "minum",
+        "completed": false
+        },
+        {
+        "userId": 2,
+        "id": 24,
+        "title": "skincare",
+        "completed": false
+        },
+        {
+        "userId": 2,
+        "id": 25,
+        "title": "game",
+        "completed": true
+        }
     ]
 }
